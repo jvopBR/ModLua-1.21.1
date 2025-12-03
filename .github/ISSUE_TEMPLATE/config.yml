@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: NeoForge Documentation
+    url: https://docs.neoforged.net/
+    about: Check the official docs for API questions and modding references.
+
+  - name: NeoForge Discord Support
+    url: https://discord.neoforged.net/
+    about: You may get faster answers for API-specific questions on Discord.
